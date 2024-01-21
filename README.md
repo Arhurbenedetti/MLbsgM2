@@ -24,4 +24,4 @@ Pour exécuter ce notebook, vous aurez besoin de Python et des bibliothèques su
 - matplotlib
 - seaborn
 
-NOTES: Il se peux qu'il y ai de légères différences entre les graphiques sur github et sur le rapport car le notebook a ete relancer entre temps
+NOTES : Il se peut qu'il y ait de légères différences entre les graphiques sur GitHub et sur le rapport car le notebook a été relancer entre temps 
