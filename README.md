@@ -1,7 +1,8 @@
 # ML_BSG_M2_AB
 
 ## Description
-Ce notebook a été crée dans sagemaker studiolab.
+Ce notebook a été crée dans SageMaker Studio Lab.
+
 Ce notebook contient des analyses détaillées et des visualisations de données. Il a été créé dans le but de fournir une compréhension approfondie des données et de mettre en évidence les tendances et les modèles intéressants.
 
 ## Contenu
