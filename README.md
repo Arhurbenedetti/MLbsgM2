@@ -25,5 +25,7 @@ Pour exécuter ce notebook, vous aurez besoin de Python et des bibliothèques su
 - seaborn
 
 NOTES : 
+
 . Pour la reproductibilité, veuiller placer les fichier data et Label (https://archive.ics.uci.edu/dataset/401/gene+expression+cancer+rna+seq) dans le même dossier que le notebook.
+
 . Il se peut qu'il y ait de légères différences entre les graphiques sur GitHub et sur le rapport car le notebook a été relancer entre temps 
