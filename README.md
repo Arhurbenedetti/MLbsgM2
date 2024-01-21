@@ -3,7 +3,7 @@
 ## Description
 Ce notebook a été crée dans SageMaker Studio Lab donc a reproduire ainsi dans les meme conditions.
 
-Ce notebook contient des analyses détaillées et des visualisations de données. LE notebook a ete fait comme remise de code pour le rapport du devoir de biostatistique approfondi de M2 BSG/GAD.
+Ce notebook contient des analyses détaillées et des visualisations de données. Le notebook a ete fait comme remise de code pour le rapport du devoir de biostatistique approfondi de M2 BSG/GAD.
 
 ## Contenu
 
